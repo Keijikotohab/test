@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.073c9b0a.css",
+    "main.js": "./static/js/main.1928cb16.js",
+    "static/media/dotted_line.svg": "./static/media/dotted_line.c714732f510c8384bdec79c32a5cae13.svg",
+    "static/media/icon_map_and_building.svg": "./static/media/icon_map_and_building.b3140a3396e927b0dd1264b10d69f070.svg",
+    "static/media/map_available.svg": "./static/media/map_available.b916d3d163f06507aca9bbb7f8c3e570.svg",
+    "static/media/icon_menu.svg": "./static/media/icon_menu.65d8f05e231e2d40ebde05e476926b07.svg",
+    "index.html": "./index.html",
+    "static/media/icon_pin.svg": "./static/media/icon_pin.d58c7d174de40894bd0b90a242d1a454.svg",
+    "static/media/icon_compass.svg": "./static/media/icon_compass.e0d391771e524b66e1bfb73d43d93efc.svg",
+    "static/media/icon_circle.svg": "./static/media/icon_circle.f927d3ac56deabaa843042ead6e552be.svg",
+    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
+    "main.1928cb16.js.map": "./static/js/main.1928cb16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1928cb16.js"
+  ]
+}
